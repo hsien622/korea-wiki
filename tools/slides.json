@@ -1,0 +1,92 @@
+[
+ {
+  "cover": true,
+  "title": "韓國自由行新手指南",
+  "note": "學完這份簡報，你會知道：入境前要確認什麼、交通卡怎麼選、怎麼退稅、行李怎麼帶，以及遇到緊急狀況要找誰。"
+ },
+ {
+  "title": "入境與簽證",
+  "wiki": "entry",
+  "claims": [
+   "entry-1",
+   "entry-2",
+   "entry-3",
+   "entry-5"
+  ],
+  "note": "出發前先確認能不能入境、要填哪些表。"
+ },
+ {
+  "title": "交通卡怎麼選",
+  "wiki": "transport",
+  "claims": [
+   "transport-1",
+   "transport-2",
+   "transport-3",
+   "transport-4"
+  ],
+  "note": "先搞懂交通卡，再決定要不要買短期票。"
+ },
+ {
+  "title": "購物與住宿退稅",
+  "wiki": "tax",
+  "claims": [
+   "tax-1",
+   "tax-2",
+   "tax-3",
+   "tax-4"
+  ],
+  "note": "退稅有門檻與期限，結帳前先確認。"
+ },
+ {
+  "title": "海關與攜帶物品",
+  "wiki": "customs",
+  "claims": [
+   "customs-1",
+   "customs-2",
+   "customs-3",
+   "customs-4"
+  ],
+  "note": "入境與登機前，先檢查行李與申報。"
+ },
+ {
+  "title": "安全與求助",
+  "wiki": "safety",
+  "claims": [
+   "safety-1",
+   "safety-2",
+   "safety-3",
+   "safety-5"
+  ],
+  "note": "遇到緊急狀況，先打當地電話，再聯絡駐外單位。"
+ },
+ {
+  "quiz": true,
+  "title": "自我檢查",
+  "wiki": "index",
+  "note": "先想想答案，再點開對照。",
+  "items": [
+   {
+    "q": "出發前還需要申請 K-ETA 嗎？",
+    "claim": "entry-2"
+   },
+   {
+    "q": "購物退稅的最低消費是多少？",
+    "claim": "tax-1"
+   },
+   {
+    "q": "遇到緊急危難要打哪支電話？",
+    "claim": "safety-1"
+   }
+  ]
+ },
+ {
+  "title": "三件最容易漏掉的事",
+  "wiki": "index",
+  "claims": [
+   "entry-2",
+   "tax-1",
+   "safety-1"
+  ],
+  "note": "出發前把這三件事再看一遍。"
+ }
+]
